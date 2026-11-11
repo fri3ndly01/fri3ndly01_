@@ -1,0 +1,9 @@
+Package: com.fri3ndly01.ytpad15
+Name: YTPad15
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Automatyczna i bezpieczna naprawa YouTube na iOS 15.
+Maintainer: fri3ndly01_
+Author: fri3ndly01_
+Filename: YTPad15_Tweak.deb
+
